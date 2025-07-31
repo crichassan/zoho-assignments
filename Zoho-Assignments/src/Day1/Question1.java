@@ -1,5 +1,5 @@
 //1. Write a code to illustrate the various scope of variables(static, local, instance, block, final variables)?
-
+package Day1;
 public class Question1 {
 
     // Static variable 

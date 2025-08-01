@@ -1,3 +1,4 @@
+//Write a program to find the maximum of two numbers using ternary operator.
 package Day1;
 
 public class Question3 {
@@ -8,8 +9,6 @@ public class Question3 {
 		//ternary operator
      	int max = num1<num2 ? num2 : num1;
      	System.out.println("Max: " + max);
-		
-
 	}
 
 }

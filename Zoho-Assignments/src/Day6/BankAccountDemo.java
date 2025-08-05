@@ -1,3 +1,7 @@
+/*5. Design a class named BankAccount that uses the concept of encapsulation. The class should have the following
+private data members: account number, account holder name, and balance. Provide public getter and setter methods to
+access and modify these fields. Also, include a method to deposit and withdrawal of amount ensuring that the balance
+cannot go negative. */
 package Day6;
 
 import java.util.Scanner;
